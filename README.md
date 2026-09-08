@@ -39,8 +39,8 @@
 
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/77aaafe6-bf3f-44ff-90cf-4f91469b39f3" />
 
-### Name:MANGA MUNI SREE RAM
-### Register Number: 212225040223
+### Name:ABDUL RAHMAN A R
+### Register Number:212225040008
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
